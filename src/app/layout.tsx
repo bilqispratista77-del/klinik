@@ -32,7 +32,8 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "DentaCare Clinic" }],
   icons: {
-    icon: "/logo.svg",
+    icon: "/icon.svg",
+    apple: "/apple-icon.svg",
   },
   openGraph: {
     title: "DentaCare Clinic - Senyum Sehat Dimulai di Sini",
